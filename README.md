@@ -4,6 +4,8 @@
 This project demonstrates a modern data engineering pipeline using AWS S3, Snowflake, DBT, and Airflow. Raw data is ingested from a relational database into S3, orchestrated via Airflow to load and transform data into Snowflake using DBT. The project follows a dimensional modeling approach for scalable analytics and supports end-to-end automation of data ingestion, transformation, and reporting.
 
 ## Architecture
+![Project Architecture]()
+
 
 ## Technology Used
 1. Programming Language - Python (For data extraction scripts and orchestration tasks)
